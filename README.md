@@ -9,4 +9,5 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) - working page.
+
 Open [http://localhost:3000/error](http://localhost:3000/error) - page will hang forever
